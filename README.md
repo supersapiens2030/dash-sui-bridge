@@ -1,4 +1,5 @@
 # Dash ↔ Sui Bridge (wDASH)
+[Full grant proposal (PDF)](/supersapiens2030/dash-sui-bridge/blob/main/docs/DashSui_Grant_Proposal.pdf)
 
 **Goal**: Bring Dash’s ~175 k daily real-world transactions (InstantSend payments) to Sui as native wDASH for DeFi, gaming and payments.
 
@@ -18,6 +19,6 @@
 4. Liquidity incentives on Cetus / Turbos
 
 Grant proposal (PDF) attached in application.  
-Contact: @supersapiensXL | dashsui@proton.me
+Contact: superspaiens2030@proton.me
 
 Work in progress – contributions welcome once funded.
